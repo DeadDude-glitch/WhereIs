@@ -1,5 +1,5 @@
 # WhereIs
-did want to open a browser and use ipgeolocation.io so I wrote a script to do it for me instead.
+didn't want to open a browser and use ipgeolocation.io so I wrote a script to do it for me instead.
 ## client for IPgeo API
 this script does nothing else other than communicating with the API and present specific results that might help SOC analysts.
 ## customize it as you like!
