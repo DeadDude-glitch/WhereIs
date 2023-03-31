@@ -40,3 +40,6 @@ if __name__ == "__main__" and key != "":
         except ValueError: message = f"{colorama.Fore.RED}{address} is not a valid IPv4 or IPv6 address"
         # present output
         print(message)
+else:
+    print(f"{colorama.Fore.Yellow}[!] APIkey is messing, add your API key in the script!")
+    quit()
