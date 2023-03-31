@@ -12,7 +12,7 @@ after adding your key in the script code, you can use it like this
 ```
 
 #### TODO
-I believe that things are built by many people are better built by one thus I have left this for you to do.
+I believe that things are built by many people are better by the ones that are built by one thus I have left this for you to do.
   1. tell the user when the request limit has been reached.
   2. handle internet connection errors.
-  3. nothing, left for your creativity.
+  3. left for your creativity.
