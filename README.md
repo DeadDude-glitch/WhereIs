@@ -7,12 +7,11 @@ the API provides more data but I choose the country name and ISP. If you wish to
 ### usage:
 after adding your key in the script code, you can use it like this
 ```
-┌──(deadude㉿GitHub)-[~/scripts/]
-└─$ python3 Whereis.py {ip 0} [ip 1] [ip 2] [ip 3]
+python3 Whereis.py 8.8.8.8
 ```
 
 #### TODO
-I believe that things are built by many people are better by the ones that are built by one thus I have left this for you to do.
+I believe that things are built by many people are better by the ones that are built by one thus I have left this for anyone who share the same vision.
   1. tell the user when the request limit has been reached.
   2. handle internet connection errors.
   3. left for your creativity.
